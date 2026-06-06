@@ -1,7 +1,12 @@
 # CLI-Student-Expense-Tracker
 <br>
 This is a Python command-line application that helps students track and manage their daily expenses. Users can add, edit, delete, and view expenses, search expenses by category, set a monthly budget, and view spending reports. The program also provides a dashboard with spending statistics, category-wise analysis, and monthly reports. Sample expenses are included so the program can be tested immediately.
+
 <br><br>
+
+![Cover Picture](Screenshots/CLI-student-expense-tracker.jpg)
+
+<br>
 
 ---
 <br>
